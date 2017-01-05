@@ -1,0 +1,19 @@
+{
+  "name": "emizone-mqtt",
+  "version": "1.0.0",
+  "description": "emizone-mqtt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "author": "Emad Emami",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.6.8",
+    "mqtt": "^2.1.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0" 
+  }
+}
